@@ -2,7 +2,7 @@
 title: About Me
 date: 2016-07-26 19:44:33
 ---
-Hello! My name is Stefano Cianciulli, and I am a Software Engineer. I was born and raised in Rome, Italy, although I am currently living in Hatfield, just outside London, United Kingdom.
+Hello! My name is Stefano Cianciulli, and I am a Software Engineer. I was born and raised in Rome, Italy, although I am currently living in Hertford, just outside London, United Kingdom.
 
 My interest with computers started when I was a little kid, when my dad bought me my first computer with a single game, [Megarace](http://www.gog.com/game/megarace_1_2). I was hooked from the first moment, and this has been the first step on a path I am still travelling on.
 
