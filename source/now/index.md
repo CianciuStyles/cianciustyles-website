@@ -18,13 +18,14 @@ Inspired by [Derek Sivers](https://sive.rs/)'s [What I'm doing now](https://sive
 - 🛠️ Personal projects I'm working on:
   - Building my own [knowledge base](https://cianciustyles.gitbook.io/everything-i-know/)
 - 📚 Books I'm reading:
-  - [Life Without Bread](https://www.goodreads.com/book/show/537625.Life_Without_Bread) by Christian B. Allen, Wolfgang Lutz
+  - [The Easy Way To Lose Weight](https://www.amazon.co.uk/Easy-Weight-Allen-Carrs-Easyway/dp/1784044954) by Allen Carr
 - 🎮 Video games I'm playing:
-  - [Uncharted 4: A Thief's End](https://www.playstation.com/en-gb/games/uncharted-4-a-thiefs-end/)
-  - [Uncharted: The Lost Legacy](https://www.playstation.com/en-gb/games/uncharted-the-lost-legacy/)
+  - [The Last Guardian](https://www.playstation.com/en-gb/games/the-last-guardian/)
+  - [Phoenix Wright: Ace Attorney](https://www.ace-attorney.com/)
 - 📺 TV shows I'm watching:
-  - [Street Fighter II V](https://www.imdb.com/title/tt0144069/)
+  - [The Mandalorian](https://www.imdb.com/title/tt8111088)
+  - [All Or Nothing: Juventus](https://www.imdb.com/title/tt14113324)
 - 🎵 Music I'm listening to:
   - Anything by [RichaadEB](https://www.youtube.com/channel/UCPM1bCbT-dVAHAEIpUUpVLQ)
 
-**Last updated:** May 2022
+**Last updated:** October 2022
