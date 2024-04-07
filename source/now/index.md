@@ -12,22 +12,20 @@ Inspired by [Derek Sivers](https://sive.rs/)'s [What I'm doing now](https://sive
   - [Digital minimalism](https://www.calnewport.com/books/digital-minimalism/)
   - [Stoicism](https://dailystoic.com/)
 - 👨‍🎓 What I'm learning:
-  - [C++](https://www.cplusplus.com/)
-  - [Kotlin](https://kotlinlang.org/)
+  - [C++](https://www.cplusplus.com/) and [Rust](https://www.rust-lang.org/)
+  - Cybersecurity through the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity), [HackTheBox](https://www.hackthebox.com/) and [TryHackMe](https://tryhackme.com/)
   - English at the [CPE](https://www.cambridgeenglish.org/exams-and-tests/proficiency/) level
 - 🛠️ Personal projects I'm working on:
   - Building my own [knowledge base](https://cianciustyles.gitbook.io/everything-i-know/)
-  - [From Nand to Tetris](https://www.nand2tetris.org/) Part II on [Coursera](https://www.coursera.org/learn/nand2tetris2)
 - 📚 Books I'm reading:
-  - [The Last Devil To Die](https://www.amazon.co.uk/Last-Devil-Die-Thursday-Murder/dp/0241512441/) by Richard Osman (soon)
-  - [The Psychology of Money](https://www.amazon.co.uk/Psychology-Money-Timeless-lessons-happiness/dp/0857197681) by Morgan Housel
+  - [Un Capitano](https://www.amazon.it/capitano-Francesco-Totti/dp/8817105864) by Francesco Totti and Paolo Condò
 - 🎮 Video games I'm playing:
-  - [Resident Evil 2](https://www.residentevil2.com/)
-  - [S.T.A.L.K.E.R.: Shadow of Chernobyl](https://www.stalker-game.com/)
+  - [Crash Bandicoot: The Wrath of Cortex](https://www.wikiwand.com/en/Crash_Bandicoot:_The_Wrath_of_Cortex)
 - 📺 TV shows I'm watching:
-  - [Il Commissario Montalbano](https://www.imdb.com/title/tt0920489/)
-  - [Steins;Gate](https://www.imdb.com/title/tt1910272/)
+  - [The 1% Club](https://www.itv.com/watch/the-1percent-club/10a0593)
+  - [Would I Lie To You?](https://www.bbc.co.uk/programmes/b007r3n8)
 - 🎵 Music I'm listening to:
   - Anything by [RichaadEB](https://www.youtube.com/channel/UCPM1bCbT-dVAHAEIpUUpVLQ)
+  - [Master of Puppets in the style of Muse [Metallica Cover]](https://www.youtube.com/watch?v=OhqzH_ALzZ4) by [Andre Antunes](https://www.youtube.com/@AndreAntunesofficial)
 
-**Last updated:** September 2023
+**Last updated:** April 2024
