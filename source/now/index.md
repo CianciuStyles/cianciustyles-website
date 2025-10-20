@@ -12,24 +12,28 @@ Inspired by [Derek Sivers](https://sive.rs/)'s [What I'm doing now](https://sive
   - [Digital minimalism](https://www.calnewport.com/books/digital-minimalism/)
   - [Stoicism](https://dailystoic.com/)
 - 👨‍🎓 What I'm learning:
-  - [C++](https://www.cplusplus.com/) and [Rust](https://www.rust-lang.org/)
-  - Cybersecurity through the [CompTIA Security+ certification](https://www.comptia.org/certifications/security), [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/)
+  - [Rust](https://www.rust-lang.org/)
+  - Cybersecurity through [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/)
   - English at the [CPE](https://www.cambridgeenglish.org/exams-and-tests/proficiency/) level
 - 🛠️ Personal projects I'm working on:
   - Building my own [knowledge base](https://cianciustyles.gitbook.io/everything-i-know/)
 - 📚 Books I'm reading:
-  - [Murder on the Orient Express](https://www.amazon.co.uk/Assassinio-sullOrient-Express-Agatha-Christie/dp/8804679387) by Agatha Christie
+  - [The Impossible Fortune](https://www.penguin.co.uk/books/453609/the-impossible-fortune-by-osman-richard/9780241743980) by Richard Osman
 - 🎮 Video games I'm playing:
-  - [The Last of Us Part II](https://www.playstation.com/en-gb/games/the-last-of-us-part-ii/)
-  - [Call of Duty: Modern Warfare 3](https://www.activision.com/games/call-of-duty/call-of-duty-mw3)
-  - [eFootball](https://www.konami.com/efootball/en/)
+  - [Split Fiction](https://www.ea.com/it/games/split-fiction/split-fiction)
+  - [Snakebird Complete](https://noumenongames.com/game/snakebird_complete)
+  - [Final Fantasy XIII](https://gb.store.square-enix-games.com/final-fantasy-xiii---digital)
 - 📺 TV shows I'm watching:
-  - [Slow Horses](https://tv.apple.com/gb/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o)
-  - [The Wire](https://www.hbo.com/the-wire)
+  - [Parks and Recreation](https://www.imdb.com/it/title/tt1266020/)
   - [Would I Lie To You?](https://www.bbc.co.uk/programmes/b007r3n8)
+  - [The 1% Club](https://www.itv.com/watch/the-1percent-club/10a0593)
 - 🎵 Music I'm listening to:
   - Anything by [RichaadEB](https://www.youtube.com/channel/UCPM1bCbT-dVAHAEIpUUpVLQ)
   - [Master of Puppets in the style of Muse [Metallica Cover]](https://www.youtube.com/watch?v=OhqzH_ALzZ4) by [Andre Antunes](https://www.youtube.com/@AndreAntunesofficial)
   - [Video Game Nostalgic Radio](https://www.youtube.com/watch?v=s6SB2dq51Gw)
+- 📽 YouTube channels I'm following:
+  - [OG Crew](https://www.youtube.com/@theogcrewofficial)
+  - [StezStix Fix?](https://www.youtube.com/@StezStixFix)
+  - [Sayaka's Digital Attic](https://www.youtube.com/@Sayakas_Digital_Attic)
 
-**Last updated:** November 2024
+**Last updated:** October 2025
