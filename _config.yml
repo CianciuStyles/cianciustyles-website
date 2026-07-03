@@ -72,4 +72,4 @@ deploy:
   type: git
   repo: https://github.com/CianciuStyles/cianciustyles.github.io
   branch: master
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  message: "Site updated: {{ now('yyyy-MM-dd HH:mm:ss') }}"
